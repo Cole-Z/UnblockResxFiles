@@ -32,6 +32,10 @@ User can upload a valid solution folder or visual studio project with the 'open 
 
 If the scan runs with no errors, then the user is presented with a 'complete' notification, and the files should now be ready to be processed.
 
+![image](https://github.com/Cole-Z/UnblockResxFiles/assets/98670265/20473064-e438-4d1e-bfea-4b6feed36f4d)
+
+checking the folder after processing: 
+
 ![image](https://github.com/Cole-Z/UnblockResxFiles/assets/98670265/07031103-1a2e-455b-ac21-be8374d6b8a9)
 
 The orginal file can now be processed, as before we were unable to see any other errors.
